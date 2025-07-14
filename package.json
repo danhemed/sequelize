@@ -1,0 +1,27 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "��#\u0000 \u0000s\u0000e\u0000q\u0000u\u0000e\u0000l\u0000i\u0000z\u0000e\u0000\r\u0000 \u0000",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhemed/sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danhemed/sequelize/issues"
+  },
+  "homepage": "https://github.com/danhemed/sequelize#readme",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.2",
+    "sequelize": "^6.37.7"
+  }
+}
